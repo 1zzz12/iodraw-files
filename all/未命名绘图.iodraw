@@ -164,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rEfBrWGQZmkx5sMH6oqD-52" value="党员发展管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="485" y="320" width="100" height="60" as="geometry" />
+          <mxGeometry x="490" y="340" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rEfBrWGQZmkx5sMH6oqD-58" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rEfBrWGQZmkx5sMH6oqD-52" target="rEfBrWGQZmkx5sMH6oqD-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -215,13 +215,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="435" y="430" as="sourcePoint" />
             <mxPoint x="485" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rEfBrWGQZmkx5sMH6oqD-70" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="530" y="400" as="sourcePoint" />
-            <mxPoint x="610" y="400" as="targetPoint" />
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
