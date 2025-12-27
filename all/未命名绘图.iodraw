@@ -100,7 +100,7 @@
         <mxCell id="rEfBrWGQZmkx5sMH6oqD-33" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="328" y="335" width="86" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rEfBrWGQZmkx5sMH6oqD-34" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rEfBrWGQZmkx5sMH6oqD-34" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="205" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rEfBrWGQZmkx5sMH6oqD-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rEfBrWGQZmkx5sMH6oqD-0" target="rEfBrWGQZmkx5sMH6oqD-34">
