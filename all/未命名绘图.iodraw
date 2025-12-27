@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rEfBrWGQZmkx5sMH6oqD-33" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="328" y="335" width="86" height="50" as="geometry" />
+          <mxGeometry x="371" y="335" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rEfBrWGQZmkx5sMH6oqD-34" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="205" width="80" height="50" as="geometry" />
@@ -228,8 +228,8 @@
         </mxCell>
         <mxCell id="rEfBrWGQZmkx5sMH6oqD-78" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="360" as="sourcePoint" />
-            <mxPoint x="550" y="360" as="targetPoint" />
+            <mxPoint x="457" y="360" as="sourcePoint" />
+            <mxPoint x="627" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rEfBrWGQZmkx5sMH6oqD-79" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="rEfBrWGQZmkx5sMH6oqD-78">
