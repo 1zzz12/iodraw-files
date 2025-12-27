@@ -166,20 +166,6 @@
         <mxCell id="rEfBrWGQZmkx5sMH6oqD-52" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="360" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rEfBrWGQZmkx5sMH6oqD-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="rEfBrWGQZmkx5sMH6oqD-52">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="300" as="sourcePoint" />
-            <mxPoint x="620" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rEfBrWGQZmkx5sMH6oqD-56" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="rEfBrWGQZmkx5sMH6oqD-55">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint y="-110" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rEfBrWGQZmkx5sMH6oqD-57" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="rEfBrWGQZmkx5sMH6oqD-55">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
