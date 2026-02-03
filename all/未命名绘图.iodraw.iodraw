@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (iPad; CPU OS 26_2_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/143.0.3650.139 Version/26.0 Mobile/15E148 Safari/604.1" version="24.7.17">
   <diagram name="第 1 页" id="JCTB05zR2LDhyHIO3gD6">
-    <mxGraphModel dx="1637" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1206" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,6 +151,7 @@
         <mxCell id="8yHSFg-Is9DdyOcVHAA8-27" value="F4.1 用户权限/参数设置" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=1;entryY=0.83;rounded=0;" edge="1" parent="1" source="8yHSFg-Is9DdyOcVHAA8-19" target="8yHSFg-Is9DdyOcVHAA8-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="750" y="430" />
               <mxPoint x="683" y="499" />
             </Array>
           </mxGeometry>
