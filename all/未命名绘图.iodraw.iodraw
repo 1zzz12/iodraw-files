@@ -91,6 +91,77 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="8yHSFg-Is9DdyOcVHAA8-16" value="E1 学生/申请人" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="353" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8yHSFg-Is9DdyOcVHAA8-17" value="E2 党支部书记" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="799" y="251" width="162" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8yHSFg-Is9DdyOcVHAA8-18" value="E3 党委委员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="807" y="353" width="146" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8yHSFg-Is9DdyOcVHAA8-19" value="E4 系统管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="799" y="453" width="162" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8yHSFg-Is9DdyOcVHAA8-20" value="P0 高校大学生&#xa;党员发展管理系统" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="306" width="143" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="8yHSFg-Is9DdyOcVHAA8-21" value="F1.1 申请/思想汇报/总结" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.32;entryX=0;entryY=0.45;rounded=0;" edge="1" parent="1" source="8yHSFg-Is9DdyOcVHAA8-16" target="8yHSFg-Is9DdyOcVHAA8-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="356" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8yHSFg-Is9DdyOcVHAA8-22" value="F1.2 审核反馈/公示通知" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.56;entryX=1;entryY=0.68;rounded=0;" edge="1" parent="1" source="8yHSFg-Is9DdyOcVHAA8-20" target="8yHSFg-Is9DdyOcVHAA8-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8yHSFg-Is9DdyOcVHAA8-23" value="F2.1 谈话记录/考察意见/决议" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=1;entryY=0.3;rounded=0;" edge="1" parent="1" source="8yHSFg-Is9DdyOcVHAA8-17" target="8yHSFg-Is9DdyOcVHAA8-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="683" y="302" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8yHSFg-Is9DdyOcVHAA8-24" value="F2.2 待审提醒/学生档案" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.16;entryX=0;entryY=0.28;rounded=0;" edge="1" parent="1" source="8yHSFg-Is9DdyOcVHAA8-20" target="8yHSFg-Is9DdyOcVHAA8-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="683" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8yHSFg-Is9DdyOcVHAA8-25" value="F3.1 预审意见/备案批复" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=1;entryY=0.58;rounded=0;" edge="1" parent="1" source="8yHSFg-Is9DdyOcVHAA8-18" target="8yHSFg-Is9DdyOcVHAA8-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="683" y="406" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8yHSFg-Is9DdyOcVHAA8-26" value="F3.2 汇总报表/待办事项" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.44;entryX=0;entryY=0.32;rounded=0;" edge="1" parent="1" source="8yHSFg-Is9DdyOcVHAA8-20" target="8yHSFg-Is9DdyOcVHAA8-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="683" y="354" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8yHSFg-Is9DdyOcVHAA8-27" value="F4.1 用户权限/参数设置" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=1;entryY=0.83;rounded=0;" edge="1" parent="1" source="8yHSFg-Is9DdyOcVHAA8-19" target="8yHSFg-Is9DdyOcVHAA8-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="683" y="499" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8yHSFg-Is9DdyOcVHAA8-28" value="F4.2 系统运行日志" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="1" source="8yHSFg-Is9DdyOcVHAA8-20" target="8yHSFg-Is9DdyOcVHAA8-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="683" y="449" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
